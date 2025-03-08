@@ -1,1 +1,1 @@
-
+This web development project focuses on the frontend of a logistics warehouse shipment system. It provides a user-friendly interface for managing parcel details, including product name, customer name, address, and contact details. The system ensures smooth tracking and organization of shipments, enhancing efficiency in warehouse logistics. Designed with responsive UI and intuitive navigation, it allows users to access and manage shipment data seamlessly.
